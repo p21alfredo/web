@@ -16,12 +16,12 @@
 
 ## Desafio21:
 
-_"O desafio nos move"_ , e pensando nisso, preparamos uma para você.
+_"O desafio nos move"_ e, pensando nisso, preparamos um para você.
 
-Para dar inicio ao desafio, precisará seguir alguns passos:
+Para dar início ao desafio, você precisará seguir alguns passos:
 
 ## 1º Passo: PreparAção
- - Envie seu usuário do gitHub e seu e-mail;
+ - Envie seu usuário do GitHub e seu e-mail;
  
  <form action="https://formspree.io/jerfeson@p21sistemas.com.br" method="POST" target="_blank">
 	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
@@ -34,13 +34,13 @@ Para dar inicio ao desafio, precisará seguir alguns passos:
 ## 2º Passo: O Desafio
 	U2Fjb3UgcXVlIMOpIHVtIGJhc2U2NCwgasOhIHZlbmNldSBvIHByaW1laXJvIGRlc2FmaW8gOlAsIHV0aWxpemUgbyBsaW5rIHBhcmEgYWNlc3NhciBhIHDDoWdpbmEgZSB2aXN1YWxpemFyIG9zIGRldGFsaGVzIGRhIG1pc3PDo28gKGxpbmsp
 
-## 3º Passo: Desafio concluído ?! 
- - Avise-nos pelos e-mails de contato que o desafio foi concluído.
+## 3º Passo: Desafio concluído?! 
+ - Avise-nos que o desafio foi concluído pelos e-mails de contato abaixo.
 	
 ## 4º Passo: Ponto de encontro
  - Entraremos em contato para agendarmos sua ida ao nosso ponto de encontro.
  
 ## Emails para contato:
-	email@p21sistemas.com.br;
+	email@p21sistemas.com.br
 
 
